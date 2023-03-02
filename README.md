@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Much of writing Angular apps is just as we did:
+1. Split your app into components
+2. Create the views
+3. Define your models
+4. Display your models
+5. Add interaction
